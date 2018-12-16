@@ -1,3 +1,0 @@
-/home/dos/My_Computer/Engineering_Science/SDCND/Term3/005_Path_Planning_Project/Vehicle-Path-Planning/build/CMakeFiles/edit_cache.dir
-/home/dos/My_Computer/Engineering_Science/SDCND/Term3/005_Path_Planning_Project/Vehicle-Path-Planning/build/CMakeFiles/rebuild_cache.dir
-/home/dos/My_Computer/Engineering_Science/SDCND/Term3/005_Path_Planning_Project/Vehicle-Path-Planning/build/CMakeFiles/path_planning.dir
